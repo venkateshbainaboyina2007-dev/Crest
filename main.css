@@ -29,7 +29,7 @@
 .button:hover{
     background-color: #4F200D;
     transform: scale(1.1);
-    transform: translate(10,10);
+    /* transform: translate(10,10); */
 
 }
 .main_container{
@@ -89,7 +89,7 @@
 }
 .image-container-1:hover{
     transform: scale(1.1);
-    transform: translate(10,10);
+    /* transform: translate(10,10); */
 
 
 }
